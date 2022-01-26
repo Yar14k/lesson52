@@ -1,0 +1,29 @@
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+td{
+    border-left: 4px solid blue;
+    font-size: 40px;
+    
+}
+span{
+    color: red;
+
+}
+b{
+    color: black;
+}
+td:hover{
+    border-left: 4px solid green;
+}
+table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
